@@ -1,6 +1,6 @@
 # OpenOffice API
 
-An API to read and edit OpenAPI files with Java.
+An API to read and edit OpenDocument files with Java.
 
 ## What can this do ?
 
