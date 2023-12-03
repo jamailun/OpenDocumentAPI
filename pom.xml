@@ -9,7 +9,6 @@
 
   <name>OpenOfficeAPI</name>
   <description>Tool to read and modify ODT files. Extensible library.</description>
-  <url>https://github.com/jamailun/OpenOfficeAPI</url>
 
   <licenses>
     <license>
